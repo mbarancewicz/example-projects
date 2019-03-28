@@ -1,0 +1,1 @@
+﻿Prosty program z interfejsem graficznym do nauki języka angielskiego w postaci fiszek.
