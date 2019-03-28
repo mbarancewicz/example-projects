@@ -1,1 +1,1 @@
-Znajdują się tutaj moje przykładowe projekty, spora część jest związana ze studiami.
+Tutaj znajdują się moje przykładowe projekty, spora część jest związana ze studiami.
